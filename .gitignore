@@ -1,0 +1,8 @@
+*pdb
+*hdf5
+*h5
+nohup.out
+cors/
+models/
+shots/
+waxs/
